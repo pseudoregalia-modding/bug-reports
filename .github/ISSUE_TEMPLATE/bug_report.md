@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug in the base game of Pseudoregalia
 title: ''
 labels: ''
-assignees: turncoda
+assignees: ''
 
 ---
 
