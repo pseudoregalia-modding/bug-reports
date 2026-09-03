@@ -7,21 +7,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Steps to reproduce
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. walk to base of stairs
-2. jump and hold back
-3. mash jump
-4. see error
+1. (example) walk to base of stairs
+2. (example) jump and hold back
+3. (example) mash jump
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behavior:** A clear and concise description of what you expected to happen.
+**Actual behavior:** A clear and concise description of what actually happens.
 
-**Screenshots**
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
+## Additional context
 Add any other context about the problem here.
